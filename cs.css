@@ -1,0 +1,74 @@
+body{
+    background: linear-gradient(120deg, #78bdeb,#cf8deb);
+    
+    background-size: 100%;
+    
+ }
+ h1{
+     text-align: center;
+ }
+
+.main{
+    width: 500px;
+    height: 380px;
+    /* text-align: center; */
+    border: 1px solid red;
+
+    margin: 50px auto;
+    padding: 60px;
+    
+    box-sizing: border-box; 
+    background-color: #001933;
+    border-radius: 10px;
+    /* opacity: 50%; */
+    color: silver;
+    box-shadow: 0 0 10px rgb(236, 139, 139);
+
+}
+marquee{
+    margin-left: 300px;
+    color: rgb(0, 0, 0);
+}
+#name, #pass{
+    width: 300px;
+    border:0;
+    background: transparent;
+    border-bottom: 2px solid silver;
+    color: silver;
+
+    /* =================================== */
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+    /* ========================================= */
+}
+#submit ,#forg{
+    width: 150px;
+    margin-left: 115px;
+    margin-top: 15px;
+    cursor: pointer;
+    height: 20px;
+}
+
+/* ======================================= */
+
+input[type=submit] {
+    background-color: #ffffff;
+    color: black;
+    padding: 0px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: red;
+    color: white;
+  }
