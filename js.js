@@ -11,7 +11,7 @@ function fun(){
 
     }else{
 
-        alert("login failure"+"                                                                                      "+"click on Forget Password.It automatically updates username and password.                                                                   And then Click on Submit button");
+        alert("login failure"+"                                                                         "+"click on Forget Password.It automatically updates username and password.                                                                   And then Click on Submit button");
 
         
     }
