@@ -4,14 +4,14 @@ function fun(){
 
     if((name == "antony wilfred") && (pass == 12345678)){
 
-        alert("                                  login successful");
+        alert("login successful");
 
         window.location="https://welcomepage01.000webhostapp.com/";
 
 
     }else{
 
-        alert("                                   login failure"+"                                                                            "+"click on Forget Password.It automatically updates username and password.                                                                         And then Click on Submit button");
+        alert("login failure"+"                                                                            "+"click on Forget Password.It automatically updates username and password.                                                                         And then Click on Submit button");
 
         
     }
