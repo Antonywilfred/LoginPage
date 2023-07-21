@@ -6,7 +6,7 @@ function fun(){
 
         alert("login successful");
 
-        window.location="https://welcomepage01.000webhostapp.com/";
+        window.location="https://antonywilfred.github.io/DashboardProject/";
 
 
     }else{
